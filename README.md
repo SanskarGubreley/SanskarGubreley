@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanskar Gubreley</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskargubreley&label=Profile%20views&color=0e75b6&style=flat" alt="sanskargubreley" /> </p>
 <img align="right" alt="coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://github.com/SanskarGubreley/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskargubreley" alt="sanskargubreley" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/gubreleysanskar" target="blank"><img src="https://img.shields.io/twitter/follow/gubreleysanskar?logo=twitter&style=for-the-badge" alt="gubreleysanskar" /></a> </p>
 
