@@ -1,4 +1,9 @@
-[![Masterhead](https://user-images.githubusercontent.com/38506259/103246784-b17ec600-4932-11eb-94cb-053b1b2e4597.gif)]
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SanskarGubreley/count.svg" />
+</p>
 <h1 align="center">Hi 👋, I'm Sanskar Gubreley</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskargubreley&label=Profile%20views&color=0e75b6&style=flat" alt="sanskargubreley" /> </p>
 <img align="right" alt="coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
