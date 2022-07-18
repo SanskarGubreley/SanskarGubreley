@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Competitive Pogramming**
 
-- 🌱 I’m currently learning **DSA & Web development**
+- 🌱 I’m currently learning ** Web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SanskarGubreley?tab=repositories](https://github.com/SanskarGubreley?tab=repositories)
 
