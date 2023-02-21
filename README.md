@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Competitive Pogramming**
 
-- 🌱 I’m currently learning ** Web development**
+- 🌱 I’m currently learning **Web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SanskarGubreley?tab=repositories](https://github.com/SanskarGubreley?tab=repositories)
 
@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskargubreley&show_icons=true&locale=en" alt="sanskargubreley" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskargubreley&" alt="sanskargubreley" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskargubreley&" alt="sanskargubreley" /></p>
